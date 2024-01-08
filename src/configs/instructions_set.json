@@ -1,0 +1,10 @@
+{
+    "train": {
+      "EET": "please extract entities from the input context",
+      "ETT": "please type entities from the input context",
+      "ETCT": "please count entities types from the input context"
+    },
+    "test": {
+      "EET": "please extract entities from the input context"
+    }
+  }
